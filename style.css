@@ -3,5 +3,8 @@
     visibility: hidden;
     bottom: 5;
 }
+:end{
+    font: 1em sans-serif;
+}
 
 
